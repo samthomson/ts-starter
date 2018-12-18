@@ -4,6 +4,8 @@ An almost empty project with the skeleton structure for a typescript project. Sp
 - tests
 - code coverage
 - ts watch/building
+- ts linting
+
 
 ## usage
 
