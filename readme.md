@@ -5,7 +5,7 @@ An almost empty project with the skeleton structure for a typescript project. Sp
 - code coverage
 - ts watch/building
 - ts linting
-
+- types
 
 ## usage
 
@@ -17,7 +17,7 @@ An almost empty project with the skeleton structure for a typescript project. Sp
 
 - src: where the typescript goes
 - dist: where the transpiled js ends up
-- test: tests... written in typescript
+- test: tests... written in typescript saved as .spec.ts files
 
 ## commands
 
@@ -26,3 +26,4 @@ package.js scripts, run by `yarn [command]` or `npm run [command]`
 - test
 - build
 - watch
+- `coverage`: runs tests and displays code coverage
