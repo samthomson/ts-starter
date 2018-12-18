@@ -15,15 +15,15 @@ An almost empty project with the skeleton structure for a typescript project. Sp
 
 ## structure
 
-- src: where the typescript goes
-- dist: where the transpiled js ends up
-- test: tests... written in typescript saved as .spec.ts files
+- **src**: where the typescript goes
+- **dist**: where the transpiled js ends up
+- **test**: tests... written in typescript saved as .spec.ts files
 
 ## commands
 
 package.js scripts, run by `yarn [command]` or `npm run [command]`
 
-- test
-- build
-- watch
+- `test`
+- `build`
+- `watch`
 - `coverage`: runs tests and displays code coverage
